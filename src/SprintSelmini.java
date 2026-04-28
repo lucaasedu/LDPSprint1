@@ -20,7 +20,7 @@ public class SprintSelmini {
 
         // ================= COMANDO 1 =================
         System.out.println("Digite comando 1:");
-        comando = sc.next();
+        comando = sc.nextLine();
 
         // VALIDANDO SE A DIREÇÃO RECEBIDA É VÁLIDA
         if ((comando.equalsIgnoreCase("FRENTE") || comando.equalsIgnoreCase("TRAS") || comando.equalsIgnoreCase("ESQUERDA") || comando.equalsIgnoreCase("DIREITA"))) {
@@ -51,7 +51,7 @@ public class SprintSelmini {
 
                         // ================= COMANDO 2 =================
                         System.out.println("Digite comando 2:");
-                        comando = sc.next();
+                        comando = sc.nextLine();
 
                         // VALIDANDO SE A DIREÇÃO RECEBIDA É VÁLIDA
                         if ((comando.equalsIgnoreCase("FRENTE") || comando.equalsIgnoreCase("TRAS") || comando.equalsIgnoreCase("ESQUERDA") || comando.equalsIgnoreCase("DIREITA"))) {
@@ -82,7 +82,7 @@ public class SprintSelmini {
 
                                         // ================= COMANDO 3 =================
                                         System.out.println("Digite comando 3:");
-                                        comando = sc.next();
+                                        comando = sc.nextLine();
 
                                         // VALIDANDO SE A DIREÇÃO RECEBIDA É VÁLIDA
                                         if ((comando.equalsIgnoreCase("FRENTE") || comando.equalsIgnoreCase("TRAS") || comando.equalsIgnoreCase("ESQUERDA") || comando.equalsIgnoreCase("DIREITA"))) {
@@ -113,7 +113,7 @@ public class SprintSelmini {
 
                                                         // ================= COMANDO 4 =================
                                                         System.out.println("Digite comando 4:");
-                                                        comando = sc.next();
+                                                        comando = sc.nextLine();
 
                                                         // VALIDANDO SE A DIREÇÃO RECEBIDA É VÁLIDA
                                                         if ((comando.equalsIgnoreCase("FRENTE") || comando.equalsIgnoreCase("TRAS") || comando.equalsIgnoreCase("ESQUERDA") || comando.equalsIgnoreCase("DIREITA"))) {
@@ -147,7 +147,7 @@ public class SprintSelmini {
 
                                                                         // ================= COMANDO 5 =================
                                                                         System.out.println("Digite comando 5:");
-                                                                        comando = sc.next();
+                                                                        comando = sc.nextLine();
 
                                                                         // VALIDANDO SE A DIREÇÃO RECEBIDA É VÁLIDA
                                                                         if ((comando.equalsIgnoreCase("FRENTE") || comando.equalsIgnoreCase("TRAS") || comando.equalsIgnoreCase("ESQUERDA") || comando.equalsIgnoreCase("DIREITA"))) {
@@ -182,7 +182,7 @@ public class SprintSelmini {
 
                                                                                         // ================= COMANDO 6 =================
                                                                                         System.out.println("Digite comando 6:");
-                                                                                        comando = sc.next();
+                                                                                        comando = sc.nextLine();
 
                                                                                         // VALIDANDO SE A DIREÇÃO RECEBIDA É VÁLIDA
                                                                                         if ((comando.equalsIgnoreCase("FRENTE") || comando.equalsIgnoreCase("TRAS") || comando.equalsIgnoreCase("ESQUERDA") || comando.equalsIgnoreCase("DIREITA"))) {
@@ -217,7 +217,7 @@ public class SprintSelmini {
 
                                                                                                         // ================= COMANDO 7 =================
                                                                                                         System.out.println("Digite comando 7:");
-                                                                                                        comando = sc.next();
+                                                                                                        comando = sc.nextLine();
 
                                                                                                         // VALIDANDO SE A DIREÇÃO RECEBIDA É VÁLIDA
                                                                                                         if ((comando.equalsIgnoreCase("FRENTE") || comando.equalsIgnoreCase("TRAS") || comando.equalsIgnoreCase("ESQUERDA") || comando.equalsIgnoreCase("DIREITA"))) {
